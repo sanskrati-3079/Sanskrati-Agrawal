@@ -178,26 +178,11 @@
 
 ---
 
-## 🏆 `ACHIEVEMENTS`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanskrati-3079&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-
-</div>
 
 ---
 
-## 🌐 `CONNECT`
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d1a)](https://github.com/sanskrati-3079)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/sanskrati-3079)
-
-</div>
 
 ---
 
