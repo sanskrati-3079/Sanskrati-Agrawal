@@ -164,15 +164,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanskaratiAgrawal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanskrati-3079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskaratiAgrawal&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrati-3079&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanskaratiAgrawal&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=ff6b9d&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=7c3aed" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrati-3079&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=ff6b9d&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=7c3aed" />
 
 </div>
 
@@ -182,7 +182,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SanskaratiAgrawal&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sanskrati-3079&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 
 </div>
 
@@ -194,8 +194,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-Reach_Out-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d1a)](https://github.com/SanskaratiAgrawal)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/SanskaratiAgrawal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d1a)](https://github.com/sanskrati-3079)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/sanskrati-3079)
 
 </div>
 
@@ -224,7 +224,7 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SanskaratiAgrawal&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&abbreviated=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=sanskrati-3079&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&abbreviated=true)
 
 </div>
 
