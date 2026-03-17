@@ -19,7 +19,7 @@
 ![ROLE](https://img.shields.io/badge/%F0%9F%A7%AC_ROLE-Data_Analyst_%7C_Data_Engineer-7c3aed?style=for-the-badge&labelColor=0d0d1a)
 ![STATUS](https://img.shields.io/badge/%E2%9A%A1_STATUS-Building_%26_Learning-4f46e5?style=for-the-badge&labelColor=0d0d1a)
 ![BASE](https://img.shields.io/badge/%F0%9F%8C%8D_BASE-India_%F0%9F%87%AE%F0%9F%87%B3-6d28d9?style=for-the-badge&labelColor=0d0d1a)
-![GOAL](https://img.shields.io/badge/%F0%9F%8E%AF_GOAL-Data_Scientist-a855f7?style=for-the-badge&labelColor=0d0d1a)
+![GOAL](https://img.shields.io/badge/%F0%9F%8E%AF_GOAL-Data_Engineer-a855f7?style=for-the-badge&labelColor=0d0d1a)
 
 </div>
 
@@ -42,7 +42,7 @@
 ║  LOCATION  :  India 🇮🇳                                          ║
 ║  STATUS    :  Building + Learning + Exploring                    ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  MISSION   :  → Become a Data Scientist                          ║
+║  MISSION   :  → Become a Data Engineer                           ║
 ║               → Build impactful AI + Data solutions              ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  PHILOSOPHY: "Design smart. Engineer data. Build systems."       ║
